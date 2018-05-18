@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DefaultHeap","An implementation of `Allocator` that allocates using the default heap allocator"]],"trait":[["Allocator","A trait for all allocators that collections can be generic about"]]});
